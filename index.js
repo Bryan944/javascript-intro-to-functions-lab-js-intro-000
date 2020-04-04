@@ -10,4 +10,4 @@ return string.toLowerCase()
 
 function logShout(string) {
   return string.toUpperCase()
-} console.log(logShout());
+} console.log(logShout('hello'));
