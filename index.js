@@ -9,5 +9,5 @@ return string.toLowerCase()
 }
 
 function logShout(string) {
-  return 'string';
+  return string;
 } console.log(logShout('hello'))
