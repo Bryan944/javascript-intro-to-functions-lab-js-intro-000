@@ -28,4 +28,3 @@ function sayHiToGrandma(str) {
         return "I love you, too."
       }
 } console.log(sayHiToGrandma('I love you, Grandma.'));
-
